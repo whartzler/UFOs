@@ -22,7 +22,11 @@ The user can filter by one cateogry or by all 5 but the data will only populate 
 Also the filters are case sensative, ff the user inputs US instead of us the table will not populate the data.
 ![image](https://user-images.githubusercontent.com/109490755/211232041-bd0fceab-1424-4a89-8421-3fb3e2f6c269.png)
 
-
-
-
 ## Summary
+### Drawback of the webpage
+As mentioned above the webpage is case sensative, we should include code to where the table will populate with case sensativity.  
+
+### Recommendations
+An addition to the webpage would be able to search and not have to worry about case sensitivity. Since a lot of Cities, States, and Countries are natually capitalized it is a little confusion to have them all lowercase.  This will greatly improve ease of searching the dataset as well.
+
+Another addition we should make is have a dropdown for State's, Countries and Shapes with possible options to choose from.  As looking through this webpage you might not know exactly what city, state, country or shape youre looking for.  The dropdown would greatly help with the ease of searching.  

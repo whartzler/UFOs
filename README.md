@@ -34,5 +34,7 @@ Another addition we should make is have a dropdown for State's, Countries and Sh
 
 ## Resources.
 index.html - Webpage where you can interact with the dataset
+
 app_challenge_code.js - Final JS code used to run the index.html webpage
+
 data.js - JS dataset

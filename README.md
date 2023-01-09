@@ -30,3 +30,9 @@ As mentioned above the webpage is case sensative, we should include code to wher
 An addition to the webpage would be able to search and not have to worry about case sensitivity. Since a lot of Cities, States, and Countries are natually capitalized it is a little confusion to have them all lowercase.  This will greatly improve ease of searching the dataset as well.
 
 Another addition we should make is have a dropdown for State's, Countries and Shapes with possible options to choose from.  As looking through this webpage you might not know exactly what city, state, country or shape youre looking for.  The dropdown would greatly help with the ease of searching.  
+
+
+## Resources.
+index.html - Webpage where you can interact with the dataset
+app_challenge_code.js - Final JS code used to run the index.html webpage
+data.js - JS dataset
